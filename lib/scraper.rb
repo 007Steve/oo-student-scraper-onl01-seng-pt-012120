@@ -4,7 +4,7 @@ require 'pry'
 class Scraper
 
   def self.scrape_index_page(index_url)
-    site = https://learn-co-curriculum.github.io/student-scraper-test-page/index.html
+    
     
   end
 
